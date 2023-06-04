@@ -1,5 +1,8 @@
 ### Hi there 👋
+<div align="left">
 
+[![Readme Card's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngochung207&show_icons=true&exclude_repo=odoo)](https://github.com/ngochung207/ngochung207)
+</div>
 <!--
 **ngochung207/ngochung207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
